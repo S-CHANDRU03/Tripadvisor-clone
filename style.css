@@ -430,6 +430,9 @@ body{
     .navbar__s3{
         margin-right: 0;
     }
+    .navbar__s3__region__button1{
+           display: none;
+    }
     .navbar__s2{
         display: none;
     }
@@ -437,13 +440,13 @@ body{
         display: none;
     }
     .navbar3{
-        width: 325px;
+        width: 300px;
         overflow-x: scroll;
         gap: 8px;
-        padding-left: 50px;
+        padding-left: 10px;
         padding-right: 10px;
-        margin-left: 50px;
-        margin-right: 50px;
+        margin-left: 80px;
+        margin-right: 70px;
     }
     .navbar3 h5{
         font-size: 9px;
@@ -462,9 +465,9 @@ body{
     }
 
     .navbar4{
-       margin-left: 35px;
+       margin-left: 40px;
        margin-right: 10px;
-       width: 400px;
+       width: 300px;
        height: 20px;
        gap: 0;
     }
@@ -474,7 +477,7 @@ body{
     }
     .navbar4 input{
         width: 100%;
-        font-size: 14px;
+        font-size: 9px;
     }
     .navbar4 i{
         width: 50px;
@@ -486,7 +489,8 @@ body{
     .sale-image img{
         margin-left: 20px;
         margin-top: 30px;
-        width: 450px;
+        width: 370px;
+        height: 200px;
         position: relative;    
     }
     .sale-image__offer{
@@ -512,10 +516,12 @@ body{
 
     .more-explore{
         margin-left: 10px;
+        margin-right: 5px;
     }
 
     .creators-guide{
         margin-left: 10px;
+        margin-right: 5px;
     }
 
     .footer__one{
