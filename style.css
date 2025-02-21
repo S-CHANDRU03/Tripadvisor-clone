@@ -407,3 +407,123 @@ body{
     margin-left: 140px;
     margin-right: 165px;
 }
+
+
+@media screen and (max-width:800px) {
+
+    body{
+        font-size: 10px;
+    }
+    
+}
+
+@media screen and (max-width:600px) {
+
+    .navbar{
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .navbar__s1{
+        padding-left: 0;
+        margin-left: 0;
+    }
+    .navbar__s3{
+        margin-right: 0;
+    }
+    .navbar__s2{
+        display: none;
+    }
+    .navbar2{
+        display: none;
+    }
+    .navbar3{
+        width: 325px;
+        overflow-x: scroll;
+        gap: 8px;
+        padding-left: 50px;
+        padding-right: 10px;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    .navbar3 h5{
+        font-size: 9px;
+    }
+    .navbar3__s1__h1{
+        width: 50px;
+    }
+    .navbar3__s3__h3{
+        width: 60px;
+    }
+    .navbar3__s6__h6{
+        width: 70px;
+    }
+    .navbar3 img{
+        width: 12px;
+    }
+
+    .navbar4{
+       margin-left: 35px;
+       margin-right: 10px;
+       width: 400px;
+       height: 20px;
+       gap: 0;
+    }
+    .navbar4 button{
+        width: 70px;
+        height: 30px;
+    }
+    .navbar4 input{
+        width: 100%;
+        font-size: 14px;
+    }
+    .navbar4 i{
+        width: 50px;
+        padding-right: 0;
+        margin-right: 0;
+        padding-left: 10px;
+    }
+
+    .sale-image img{
+        margin-left: 20px;
+        margin-top: 30px;
+        width: 450px;
+        position: relative;    
+    }
+    .sale-image__offer{
+        position: absolute;
+        font-size: 10px;
+        width: 200px;
+        bottom: 50%;
+        left: 10%;
+    }
+    .sale-image__offer button{
+        width: 100px;
+        height: 20px;
+        margin-left: 5px;
+        margin-top: 10px;
+        font-size: 9px;
+    }
+
+    .top-destination{
+
+        margin-left: 10px;
+        margin-right: 5px;
+    }
+
+    .more-explore{
+        margin-left: 10px;
+    }
+
+    .creators-guide{
+        margin-left: 10px;
+    }
+
+    .footer__one{
+          margin-left: 5px;
+    }
+    .footer__two{
+        margin-left: 5px;
+        margin-right: 5px;
+  }
+    
+}
