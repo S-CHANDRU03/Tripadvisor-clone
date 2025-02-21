@@ -762,8 +762,8 @@ body{
 @media screen and (max-width:600px) {
 
     .navbar{
-        margin-left: 5px;
-        margin-right: 5px;
+        margin-left: 1px;
+        margin-right: 1px;
     }
     .navbar__s1{
         padding-left: 0;
