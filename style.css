@@ -409,13 +409,355 @@ body{
 }
 
 
+@media screen and (max-width:1300px){
+
+    .navbar4{
+        margin-left: 150px;
+        margin-right: 10px;
+        width: 800px;
+        height: 50px;
+        gap: 0;
+     }
+     .navbar4 button{
+         width: 80px;
+         height: 50px;
+     }
+     .navbar4 input{
+         width: 100%;
+         font-size: 14px;
+     }
+     .navbar4 i{
+         width: 50px;
+         padding-right: 0;
+         margin-right: 0;
+         padding-left: 10px;
+     }
+     .sale-image img{
+        margin-left: 100px;
+        margin-top: 30px;
+        width: 900px;
+        height: 400px;
+        position: relative;    
+    }
+    .sale-image__offer{
+        position: absolute;
+        font-size: 16px;
+        width: 280px;
+        bottom: 9%;
+        left: 15%;
+    }
+    .sale-image__offer h1{
+           font-size: 30px;
+    }
+    .sale-image__offer p{
+        font-size: 22px;
+    }
+    .sale-image__offer button{
+        width: 130px;
+        height: 40px;
+        margin-left: 15px;
+        margin-top: 15px;
+        font-size: 14px;
+    }
+    .top-destination{
+
+        margin-left: 85px;
+        margin-right: 85px;
+    }
+
+    .more-explore{
+        margin-left: 85px;
+        margin-right: 85px;
+    }
+
+    .creators-guide{
+        margin-left: 85px;
+        margin-right: 85px;
+    }
+    .footer{
+        font-size: 16px;
+    }
+
+    .footer__one{
+          margin-left: 5px;
+    }
+    .footer__two{
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+
+
+}
+
+@media screen and (max-width:1100px) {
+
+    .navbar4{
+        margin-left: 100px;
+        margin-right: 10px;
+        width: 800px;
+        height: 50px;
+        gap: 0;
+     }
+     .navbar4 button{
+         width: 80px;
+         height: 50px;
+     }
+     .navbar4 input{
+         width: 100%;
+         font-size: 14px;
+     }
+     .navbar4 i{
+         width: 50px;
+         padding-right: 0;
+         margin-right: 0;
+         padding-left: 10px;
+     }
+     .sale-image img{
+        margin-left: 60px;
+        margin-top: 30px;
+        width: 900px;
+        height: 400px;
+        position: relative;    
+    }
+    .sale-image__offer{
+        position: absolute;
+        font-size: 16px;
+        width: 280px;
+        bottom: 9%;
+        left: 15%;
+    }
+    .sale-image__offer h1{
+           font-size: 30px;
+    }
+    .sale-image__offer p{
+        font-size: 22px;
+    }
+    .sale-image__offer button{
+        width: 130px;
+        height: 40px;
+        margin-left: 15px;
+        margin-top: 15px;
+        font-size: 14px;
+    }
+    .top-destination{
+
+        margin-left: 50px;
+        margin-right: 25px;
+    }
+
+    .more-explore{
+        margin-left: 50px;
+        margin-right: 25px;
+    }
+
+    .creators-guide{
+        margin-left: 50px;
+        margin-right: 25px;
+    }
+    .footer{
+        font-size: 16px;
+    }
+
+    .footer__one{
+          margin-left: 5px;
+    }
+    .footer__two{
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+}
+
+@media screen and (max-width:900px){
+    
+    .navbar3{
+        gap: 10px;
+        padding-left: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .navbar3 h5{
+        font-size: 18px;
+    }
+    .navbar3__s1__h1{
+        width: 90px;
+    }
+    .navbar3__s3__h3{
+        width: 107px;
+    }
+    .navbar3__s6__h6{
+        width: 130px;
+    }
+    .navbar3 img{
+        width: 18px;
+    }
+    .navbar4{
+        margin-left: 85px;
+        margin-right: 10px;
+        width: 700px;
+        height: 50px;
+        gap: 0;
+     }
+     .navbar4 button{
+         width: 80px;
+         height: 50px;
+     }
+     .navbar4 input{
+         width: 100%;
+         font-size: 14px;
+     }
+     .navbar4 i{
+         width: 50px;
+         padding-right: 0;
+         margin-right: 0;
+         padding-left: 10px;
+     }
+     .sale-image img{
+        margin-left: 35px;
+        margin-right: 10px;
+        margin-top: 50px;
+        width: 800px;
+        height: 350px;
+        position: relative;    
+    }
+    .top-destination{
+
+        margin-left: 25px;
+        margin-right: 20px;
+    }
+
+    .more-explore{
+        margin-left: 25px;
+        margin-right: 20px;
+    }
+
+    .creators-guide{
+        margin-left: 25px;
+        margin-right: 20px;
+    }
+
+}
+
 @media screen and (max-width:800px) {
 
     body{
         font-size: 10px;
     }
-    
-}
+    .navbar__s1{
+        padding-left: 0;
+        margin-left: 0;
+    }
+    .navbar__s3{
+        margin-right: 0;
+        padding-left: 170px;
+        margin-top: 10px;
+    }
+    .navbar__s3__region__button1{
+        display: none;
+    }
+    .navbar__s2{
+     display: none;
+    }
+    .navbar2{
+    display: none;
+    }
+    .navbar3{
+        gap: 7px;
+        padding-left: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .navbar3 h5{
+        font-size: 16px;
+    }
+    .navbar3__s1__h1{
+        width: 80px;
+    }
+    .navbar3__s3__h3{
+        width: 100px;
+    }
+    .navbar3__s6__h6{
+        width: 110px;
+    }
+    .navbar3 img{
+        width: 15px;
+    }
+    .navbar4{
+        margin-left: 65px;
+        margin-right: 10px;
+        width: 600px;
+        height: 30px;
+        gap: 0;
+     }
+     .navbar4 button{
+         width: 80px;
+         height: 30px;
+     }
+     .navbar4 input{
+         width: 100%;
+         font-size: 12px;
+     }
+     .navbar4 i{
+         width: 30px;
+         padding-right: 0;
+         margin-right: 0;
+         padding-left: 10px;
+     }
+     .sale-image img{
+        margin-left: 20px;
+        margin-top: 30px;
+        width: 700px;
+        height: 300px;
+        position: relative;    
+    }
+    .sale-image__offer{
+        position: absolute;
+        font-size: 16px;
+        width: 240px;
+        bottom: 40%;
+        left: 10%;
+    }
+    .sale-image__offer h1{
+           font-size: 24px;
+    }
+    .sale-image__offer p{
+        font-size: 16px;
+    }
+    .sale-image__offer button{
+        width: 110px;
+        height: 30px;
+        margin-left: 15px;
+        margin-top: 10px;
+        font-size: 12px;
+    }
+    .top-destination{
+
+        margin-left: 10px;
+        margin-right: 5px;
+    }
+
+    .more-explore{
+        margin-left: 10px;
+        margin-right: 5px;
+    }
+
+    .creators-guide{
+        margin-left: 10px;
+        margin-right: 5px;
+    }
+    .footer{
+        font-size: 12px;
+    }
+
+    .footer__one{
+          margin-left: 5px;
+    }
+    .footer__two{
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+}   
 
 @media screen and (max-width:600px) {
 
