@@ -650,7 +650,7 @@ body{
     }
     .navbar__s3{
         margin-right: 0;
-        padding-left: 170px;
+        padding-left: 10px;
         margin-top: 10px;
     }
     .navbar__s3__region__button1{
@@ -770,7 +770,7 @@ body{
         margin-left: 0;
     }
     .navbar__s3{
-        margin-right: 0;
+        margin-right: 70px;
     }
     .navbar__s3__region__button1{
            display: none;
