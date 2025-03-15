@@ -21,7 +21,9 @@
 ## 🛠 Installation & Usage
 
 ⦿ Clone this repository: git clone -> "https://github.com/your-username/trip-advisor-clone.git"
+
 ⦿ Open "index.html" in your browser.
+
 ⦿ Enjoy exploring the Trip Advisor Clone!
 
 ## 🌟 Contribute
