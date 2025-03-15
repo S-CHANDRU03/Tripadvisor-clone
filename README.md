@@ -13,7 +13,9 @@
 ## 📌 Technologies Used
 
 ⦿ HTML – Structure and content of the platform.
+
 ⦿ CSS – Beautiful, flexible, and fast styling.
+
 ⦿ Responsive Design – Ensuring a flawless experience on all screen sizes.
 
 ## 🛠 Installation & Usage
